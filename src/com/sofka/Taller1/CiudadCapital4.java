@@ -1,7 +1,7 @@
 package com.sofka.Taller1;
 
 import java.util.Scanner;
-public class CiudadCapital {
+public class CiudadCapital4 {
     public String ciudad_capital, pais;
     public void capital(){
         Scanner input = new Scanner(System.in);

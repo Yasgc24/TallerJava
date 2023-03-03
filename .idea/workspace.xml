@@ -4,50 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df4ea637-bf10-40cb-8603-447cfae2a37f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Taller de Java.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller1/App1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller1/App2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller1/App3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller1/App4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller1/App5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller1/CiudadCapital.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller1/InformacionFamiliar3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller1/InformacionPersonal2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller1/Mascota5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/App1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/App10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/App2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/App3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/App6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/App7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/App9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/AreaFiguras9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/Banco10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/Edad1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/Edad2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/IndiceDeMasaCorporal7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/TallerMotos6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller3/App1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller3/App2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller3/App3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller3/App4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller3/App5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller3/Figura1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller3/Figura2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller3/Figura3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller3/Menu5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller3/Multiplicacion4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller4/App1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller4/App2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller4/Arreglo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller4/NumerosPrimos3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller4/Vector1.java" afterDir="false" />
+    <list default="true" id="df4ea637-bf10-40cb-8603-447cfae2a37f" name="Changes" comment="Add folder with files">
+      <change afterPath="$PROJECT_DIR$/src/Consola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller1/CiudadCapital4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller1/NombreyApellidos1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/AlquilarPelicula4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/DrogueriaMiSalud5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/InfoEdad3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller2/Pasteleria8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller3/Contactos6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller3/EscuelaDeConduccion8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller3/Parqueadero7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller4/MatrizBidimensional4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/sofka/Taller4/TablaMultiplicar5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller1/App1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller1/App2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller1/App3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller1/App4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller1/App5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller1/CiudadCapital.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller2/App1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller2/App10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller2/App2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller2/App3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller2/App6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller2/App7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller2/App9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller3/App1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller3/App2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller3/App3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller3/App4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller3/App5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller4/App1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller4/App2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/sofka/Taller4/NumerosPrimos3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/sofka/Taller4/NumerosPrimos3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +54,19 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="7ad39c23-f609-4dc8-9023-810ce285e0af" />
+        <option name="url" value="https://github.com/Yasgc24/TallerJava.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -88,7 +92,19 @@
       <option name="presentableId" value="Default" />
       <updated>1677513406193</updated>
     </task>
+    <task id="LOCAL-00001" summary="Add folder with files">
+      <created>1677698138606</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677698138606</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add folder with files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add folder with files" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
